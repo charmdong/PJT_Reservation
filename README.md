@@ -18,7 +18,6 @@
 2. Spring, Spring Boot
 3. Tomcat
 4. MySql
-5. Mybatis
 
 ## 요구사항
 1. MVC 패턴 적용
